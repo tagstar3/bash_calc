@@ -1,2 +1,2 @@
 # bash_calc from tagstar
-simple calculator for fun >_<
+ simple calculator for fun >_<
