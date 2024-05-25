@@ -1,2 +1,2 @@
 # bash_calc
-simple calculator 
+simple calculator for fun >_<
